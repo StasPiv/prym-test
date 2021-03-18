@@ -1,0 +1,15 @@
+{
+    "name": "stanislav/prym-test",
+    "authors": [
+        {
+            "name": "Stas Pivovartsev",
+            "email": "staspivovartsev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "StasPiv\\PrymTest\\": "src/"
+        }
+    }
+}
